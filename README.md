@@ -1,5 +1,3 @@
-# Hello,World!👋
-
 *FULLSTACK SOFTWARE ENGINEER*
 
 Studying a Bachelor's Degree in Software Engineering at PUCPR.
