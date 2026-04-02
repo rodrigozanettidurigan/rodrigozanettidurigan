@@ -1,6 +1,6 @@
 # Hello,World!👋
 
-🇧🇷*FULLSTACK SOFTWARE ENGINEER*
+*FULLSTACK SOFTWARE ENGINEER*
 
 ---
 
@@ -13,11 +13,12 @@
   <a href="https://instagram.com/rodrigo.zanetti">
     <img src="https://img.shields.io/badge/Instagram-@rodrigo.zanetti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href = "https://www.linkedin.com/in/rodrigo-zanetti-durigan-9317143a9">
+    <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 
