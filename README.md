@@ -1,11 +1,11 @@
-*FULLSTACK SOFTWARE ENGINEER*
+* SOFTWARE ENGINEER*
 
 Studying a Bachelor's Degree in Software Engineering at PUCPR.
 
 Reach me at: rodrigozdurigan@gmail.com
 
-# *LANGUAGES*
-*Portuguese/Native*  - *English/Advanced*
+### Languages
+```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
 ---
 
 ## Social Media
