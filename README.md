@@ -14,7 +14,7 @@ Reach me at: rodrigozdurigan@gmail.com
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href= "www.linkedin.com/in/rodrigo-zanetti-durigan-9317143a9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
