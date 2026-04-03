@@ -11,7 +11,7 @@ Reach me at: rodrigozdurigan@gmail.com
 ## Social Media
 <p align="center">
   <a https://www.instagram.com/rodrigo.zanetti/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" "https://www.instagram.com/rodrigo.zanetti/" />
   </a>
 </p>
 
