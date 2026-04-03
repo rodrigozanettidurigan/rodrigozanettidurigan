@@ -10,8 +10,8 @@ Reach me at: rodrigozdurigan@gmail.com
 
 ## Social Media
 <p align="center">
-  <a https://www.instagram.com/rodrigo.zanetti/">
-    <img src="https://skillicons.dev/icons?i=instagram" "https://www.instagram.com/rodrigo.zanetti/" />
+  <a href= "https://www.instagram.com/rodrigo.zanetti/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
 
