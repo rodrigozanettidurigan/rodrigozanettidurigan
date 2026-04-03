@@ -9,7 +9,7 @@ Reach me at: rodrigozdurigan@gmail.com
 ---
 
 ## Social Media
-<p align="center">
+<p>
   <a href= "https://www.instagram.com/rodrigo.zanetti/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
@@ -28,7 +28,7 @@ Reach me at: rodrigozdurigan@gmail.com
 
 ## 🛠️ Stacks
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev" >
      <img src="https://skillicons.dev/icons?i=git,java,angular,postgres" />
   </a>
