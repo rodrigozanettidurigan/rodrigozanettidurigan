@@ -9,18 +9,17 @@ Reach me at: rodrigozdurigan@gmail.com
 ---
 
 ## Social Media
-
-<p align="left">
-  <a href="https://github.com/rodrigozanettidurigan">
-    <img src="https://img.shields.io/badge/GitHub-rodrigozanettidurigan-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/rodrigo.zanetti">
-    <img src="https://img.shields.io/badge/Instagram-@rodrigo.zanetti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href = "https://www.linkedin.com/in/rodrigo-zanetti-durigan-9317143a9">
-    <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a https://www.instagram.com/rodrigo.zanetti/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+
+
+
+
+
 
 ---
 
